@@ -8,9 +8,6 @@ After a few months, I went back to React studies with this project. The project 
 - styled-components.
 - typescript;
 
-Until now, i need to do finish the input-area (add style to component and verify the inputs).
-![image](https://user-images.githubusercontent.com/87453405/156480616-bcfbda42-a456-44bf-9bc4-4c19a2699237.png)
-
 ## :rocket: What's next step? 
 
 after finishing the frontend, my next challenge will be to create a nodeJs backend with jwt authentication and MySQL Database.
