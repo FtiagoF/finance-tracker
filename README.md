@@ -8,7 +8,7 @@ After a few months, I went back to React studies with this project. The project 
 - styled-components.
 - typescript;
 
-The application is deployed in vercel. 
+### The application is deployed in vercel. 
 https://finance-tracker-ashy.vercel.app
 
 ## :rocket: What's next step? 
