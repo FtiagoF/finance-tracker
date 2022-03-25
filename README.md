@@ -8,6 +8,9 @@ After a few months, I went back to React studies with this project. The project 
 - styled-components.
 - typescript;
 
+The application is deployed in vercel. 
+https://finance-tracker-ashy.vercel.app
+
 ## :rocket: What's next step? 
 
 after finishing the frontend, my next challenge will be to create a nodeJs backend with jwt authentication and MySQL Database.
